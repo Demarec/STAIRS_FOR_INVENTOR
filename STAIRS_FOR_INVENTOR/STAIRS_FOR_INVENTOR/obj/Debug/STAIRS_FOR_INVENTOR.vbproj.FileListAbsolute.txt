@@ -1,0 +1,13 @@
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\bin\Debug\STAIRS_FOR_INVENTOR.exe.config
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\bin\Debug\STAIRS_FOR_INVENTOR.exe
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\bin\Debug\STAIRS_FOR_INVENTOR.pdb
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\bin\Debug\STAIRS_FOR_INVENTOR.xml
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\obj\Debug\STAIRS_FOR_INVENTOR.vbproj.AssemblyReference.cache
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\obj\Debug\STAIRS_FOR_INVENTOR.vbproj.ResolveComReference.cache
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\obj\Debug\Stairs_Class.Stairs_Class.resources
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\obj\Debug\Stairs_Class.Resources.resources
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\obj\Debug\STAIRS_FOR_INVENTOR.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\obj\Debug\STAIRS_FOR_INVENTOR.vbproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\obj\Debug\STAIRS_FOR_INVENTOR.exe
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\obj\Debug\STAIRS_FOR_INVENTOR.xml
+D:\Visual Studio Projects\STAIRS_FOR_INVENTOR\STAIRS_FOR_INVENTOR\obj\Debug\STAIRS_FOR_INVENTOR.pdb
